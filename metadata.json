@@ -1,0 +1,5 @@
+{
+  "name": "AI Pillbox Prototype",
+  "description": "An intelligent medication management system with AI-powered pill identification and hardware integration simulation.",
+  "requestFramePermissions": ["camera"]
+}
