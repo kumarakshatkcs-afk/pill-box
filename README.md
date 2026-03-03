@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/9371d6f0-65c5-4e03-975c-af842
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# pillbox
